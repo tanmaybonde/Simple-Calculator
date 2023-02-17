@@ -1,0 +1,41 @@
+.col{
+    text-align: center;
+    padding: 2px;
+    
+ }
+ .container{
+     width:250px;
+     height:350px;
+     margin: auto;
+     margin-top: 50px;
+     border: 2px solid black;
+     box-shadow: 1px 1px 65px  limegreen;
+     border-radius: 20px;
+    
+ }
+ .container button{
+     width:50px;
+     height: 40;
+     background: black;
+     color:white;
+     cursor: pointer;
+     font-size: 25;
+     border-radius: 500px;
+ 
+ }
+ .container button:hover{
+     background-color: white;
+     color:black;
+ 
+ }
+ .int{
+     text-align: center;
+     size: 20px;
+ }
+ input[type="text"]
+ {
+     width:215px;
+     background: papayawhip;
+     font-size: 20px;
+     color:black;
+ }
